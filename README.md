@@ -58,17 +58,17 @@ ownCloud - это платформа для совместной работы с
 
 ## Показатели:
 
-- **Репозиторий:** [https://github.com/nextcloud/server](https://github.com/nextcloud/server)
-- **Звезды:** 19.5k
-- **Fork:** 3.4k
+- **Репозиторий:** https://github.com/owncloud/core
+- **Звезды:** 14.7 k
+- **Fork:** 3.6k
 - **Лицензия:** GNU AGPLv3
 
 ## Активность:
 
-- **Commits:** 10-20 в день
-- **Releases:** 1-2 в месяц
-- **Issues:** 500-1000 открытых
-- **Pull requests:** 200-300 открытых
+- **Commits:** 1-2 в день
+- **Releases:** 2-3 в месяц
+- **Issues:** 1700 открытых
+- **Pull requests:** 150+ открытых
 
 ## Анализ:
 
